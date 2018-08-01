@@ -1,0 +1,6 @@
+discord
+discord.ext.commands import Bot
+discord.ext import commands
+asyncio
+random
+discord import Game
